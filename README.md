@@ -1,11 +1,11 @@
 ## CodePath_iOS_Prework
 
 ### App Description
-`TODO://` Build the "Hello World" App on Xcode using Swift
+Build the "Hello World" App on Xcode using Swift
 
 ### App Walk-though
 
-<img src="https://im7.ezgif.com/tmp/ezgif-7-e1107653ed.gif" width=200><br>
+<img src="https://imgur.com/1sg5tc2" width=200><br>
 
 
 ### Required User Stories
