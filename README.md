@@ -5,7 +5,7 @@ Build the "Hello World" App on Xcode using Swift
 
 ### App Walk-though
 
-<img src="https://imgur.com/1sg5tc2" width=200><br>
+<img src="https://i.imgur.com/EEvR1Zx.mp4" width=200><br>
 
 
 ### Required User Stories
